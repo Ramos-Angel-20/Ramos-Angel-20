@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Angel
 #### I am a software engineering student passionate about web development and technology.
-![I am a software engineering student passionate about web development and technology.](https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Nnx8fGVufDB8fHx8&w=1000&q=80)
+![I am a software engineering student passionate about web development and technology.](https://e7.pngegg.com/pngimages/216/908/png-clipart-website-development-responsive-web-design-front-end-web-development-front-and-back-ends-website-building.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
